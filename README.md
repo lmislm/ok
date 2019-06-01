@@ -1,0 +1,2 @@
+# ok
+ssh ok ip
